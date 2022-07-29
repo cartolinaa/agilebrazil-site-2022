@@ -19,16 +19,24 @@ nav:
   code_of_conduct: Code of Conduct
   diversity_and_inclusion: Diversity & Inclusion
 
+actions:
+  register: Register!
+  watch_again_ab_content: Watch again AB content
+  build_your_sponsorship: Build your sponsorship
+
 labels:
   menu: Menu
   previous_editions: Previous editions
-  register: Register!
   participate: Participate!
   registrations_are_open: Registrations are open!
   program: Program
-
+  remember_past_years: Remember past years
+  patronize: Patronize!
+  your_brand_on_agilebrazil: Your brand on Agile Brazil
 
 texts:
   registrations_are_open: Registrations to Agile Brazil 2022 are open and we'll see you at Porto Alegre, at october 5 to 7, to session talks, hall talks and happy hours!
   registrations_are_open_2: We can not wait!
+  remember_past_years: While we review the proposals sent by community and build the program for this year, watch sessions from other Editions of Agile Brazil on your YouTube channel.
+  your_brand_on_agilebrazil: Professionals, prospects and business partners look our sponsors as agile reference. Build your custom sponsorship set for your targets.
 

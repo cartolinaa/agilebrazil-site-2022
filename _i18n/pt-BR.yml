@@ -19,17 +19,27 @@ nav:
   code_of_conduct: Código de Conduta
   diversity_and_inclusion: Diversidade & Inclusão
 
+actions:
+  register: Faça sua inscrição!
+  watch_again_ab_content: Reveja conteúdo da AB 
+  build_your_sponsorship: Monte seu patrocínio
+
 labels:
   menu: Menu
   previous_editions: Edições anteriores
-  register: Faça sua inscrição!
   participate: Participe!
   registrations_are_open: Inscrições estão abertas!
   program: Programa
+  remember_past_years: Relembre anos passados
+  patronize: Patrocine!
+  your_brand_on_agilebrazil: Sua marca na Agile Brazil
+
 
 texts:
   registrations_are_open: As inscrições para a Agile Brazil 2022 já estão abertas e nos veremos em Porto Alegre, de 5 a 7 de outubro, para palestras, papos de corredor e happy hours!
   registrations_are_open_2: Mal podemos esperar!
+  remember_past_years: Enquanto revisamos as propostas enviadas pela comunidade e montamos a programação deste ano, assista as palestras de outras edições da Agile Brazil no nosso canal no Youtube.
+  your_brand_on_agilebrazil: Profissionais, potenciais clientes e parceiros de negócio olham para nossos patrocinadores como referências em agilidade. Crie o pacote de patrocínio personalizado para seus objetivos.
 
 
 
